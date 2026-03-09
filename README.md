@@ -75,4 +75,4 @@ The attacker used the established shell to locate a sensitive file named `secret
 
 > `data.len > 48 and icmp`
 
-**Would you like me to help you combine these two projects (Boogeyman and Wireshark) into a "Cyber Security Portfolio" main page on your GitHub?**
+
